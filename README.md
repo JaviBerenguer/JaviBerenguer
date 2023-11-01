@@ -5,7 +5,7 @@
 <br>
 
 <ul>
-  <li>📌 passionated about Web developing</li>
+  <li>📌 Passionated about Web developing</li>
   <li>🧑‍🎓 DAW student at IES L'Estació Ontinyent</li>
   <li>🌎 Ontinyent, Valencia</li>
 </ul>
