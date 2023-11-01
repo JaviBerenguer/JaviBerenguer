@@ -11,9 +11,9 @@
 ## 🛠️ My Skills
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
-<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 
