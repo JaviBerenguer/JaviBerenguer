@@ -4,8 +4,9 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
 
-- A passionated about Web developing
-- DAW student at IES L'Estació Ontinyent
+📌 A passionated about Web developing
+🧑‍🎓 DAW student at IES L'Estació Ontinyent
+🌎 Ontinyent, Valencia
 <br>
 
 ## 🛠️ My Skills
