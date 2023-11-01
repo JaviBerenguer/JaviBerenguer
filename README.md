@@ -2,4 +2,10 @@
 
 
 <strong>📊 My Github Stats :</strong><br><br>
-https://camo.githubusercontent.com/3ab5f9b2a910367477cac2d1a2b19a3de7a4a49ab47ee82bab79cf5bc49f2989/68747470733a2f2f6769746875622d726561646d652d73746174732d73616c65737030372e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73616c657370303726686964653d48544d4c266c616e67735f636f756e743d38266c61796f75743d636f6d70616374267468656d653d726561637426626f726465725f7261646975733d31302673697a655f7765696768743d302e3526636f756e745f7765696768743d302e35266578636c7564655f7265706f3d6769746875622d726561646d652d7374617473
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=JaviBerenguer&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=JaviBerenguer&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JaviBerenguer&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
